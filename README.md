@@ -27,9 +27,3 @@ A Telegram bot to download TikTok videos without any watermark.
 - `WORKERS` : Number of threads to use, this depends on usage. 4 is the recommended (and default) amount, but your experience may vary.
 - `CHANNEL_URL` : URL of your Telegram channel link.
 - `BOT_URL` : Username of your Telegram Bot (without @). Example: **_TikTokBot_**
-
-
----
-### Star the Repo if you find it useful :heart:
-#### All Rights Reserved
----
